@@ -1,0 +1,4 @@
+DeptID,Employee_count,total_Salary,Minimum_Salary,Max_Salary
+10.0,2,140000,60000,80000
+20.0,9,2055000,65000,300000
+40.0,2,115000,25000,90000
