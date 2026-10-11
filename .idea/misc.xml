@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="~\PycharmProjects\PandasProject\.venv" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="~\PycharmProjects\First_Python\.venv" project-jdk-type="Python SDK" />
+>>>>>>> b43cd31ad6fd16ee1427bc201b926aebb7fb3d51
 </project>
